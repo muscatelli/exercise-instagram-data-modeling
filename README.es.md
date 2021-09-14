@@ -17,8 +17,8 @@ Vamos a crear el Diagrama de relación de entidad para la base de datos de Insta
 
 2. Instala todas las dependencias `$ pipenv install`
 
-3. Genera el diagrama tantas veces como sea necesario `$ python src/models.py`
-
+3. Genera el diagrama tantas veces como sea necesario `$ `
+python src/models.py
 4. Abre el archivo `diagram.png` para ver tu diagrama UML!
 
 

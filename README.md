@@ -13,7 +13,7 @@ We are going to be creating the Entity Relationship Diagram for Instagram Databa
 
 ## 💻 Instalation
 
-1. Get inside the environment `$ pipenv shell`
+1. Get inside the environment `$ `
 
 2. Install all dependencies `$ pipenv install`
 
